@@ -3,4 +3,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=eduardo-n&show_icons=true&hide_border=true&theme=github_dark" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-n&show_icons=true&hide_border=true&theme=github_dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-n&layout=compact&show_icons=true&hide_border=true&theme=github_dark" />
